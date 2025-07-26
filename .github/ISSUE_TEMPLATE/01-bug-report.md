@@ -1,8 +1,8 @@
 ---
-name: '🐞 Bug Report'
-about: 'Report an issue to help the project improve.'
-title: '[Bug] '
-labels: ['bug']
+name: "🐞 Bug Report"
+about: "Report an issue to help the project improve."
+title: "[Bug] "
+labels: ["bug"]
 assignees:
 ---
 
@@ -16,10 +16,10 @@ assignees:
 
 ### **Your environment**
 
--   OS: MacOS
--   Node version: 20.0.9
--   Npm version:
--   Browser name and version:
+- OS: MacOS
+- Node version: 20.0.9
+- Npm version:
+- Browser name and version:
 
 ---
 

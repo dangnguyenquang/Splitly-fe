@@ -1,8 +1,8 @@
 ---
-name: '💉 Failing Test'
-about: 'Report failing tests or CI jobs.'
-title: '[Test] '
-labels: 'question'
+name: "💉 Failing Test"
+about: "Report failing tests or CI jobs."
+title: "[Test] "
+labels: "question"
 assignees:
 ---
 
@@ -12,7 +12,7 @@ assignees:
 
 <!-- The CI jobs or tests that are failing -->
 
--   ***
+- ***
 
 ## **Reason for failure/description**
 
