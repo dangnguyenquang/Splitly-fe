@@ -1,3 +1,1 @@
-export const PATH_NAME = {
-
-}
+export const PATH_NAME = {}
